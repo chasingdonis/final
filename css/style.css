@@ -137,7 +137,7 @@ display:block;
 }
 	.callout + div.grid{margin-top:50px;}
 	 a.callout{cursor:pointer;}
-	 .callout i.icon-4x{font-size:6em;}
+	 .callout i.icon-4x{font-size:3em;}
 	 .callout h4{margin-bottom:30px;}
 	 .callout-top{margin:50px 0 0 0;}
 	 .callout p{margin-bottom:0;}
