@@ -20,7 +20,6 @@
 .grid{
 max-width:1220px;
 margin:0 auto;
-padding:0 2em;
 }
 
 .grid.flex{
@@ -50,7 +49,9 @@ clear:both;
 .col_9  { width: 73.333333333333%; }
 .col_10 { width: 81.666666666667%; }
 .col_11 { width: 90%; }
-.col_12 { width: 98.333333333333%; }
+.col_12 { width: 98.333333333333%;}
+.pic {width:25%;
+float: right;}
 
 *[class*="col_"]{
 margin-left: 0.83333333333333%;
