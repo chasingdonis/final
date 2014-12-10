@@ -39,7 +39,7 @@ clear:both;
 *[class*="col_"].omega{margin-right:0;}
  
 .col_1  { width: 6.6666666666667%; }
-.col_2  { width: 15%; }
+.col_2  { width: 20%; padding-top: 30px;}
 .col_3  { width: 23.333333333333%; }
 .col_4  { width: 31.666666666667%; }
 .col_5  { width: 40%; }
@@ -50,7 +50,7 @@ clear:both;
 .col_10 { width: 81.666666666667%; }
 .col_11 { width: 90%; }
 .col_12 { width: 100%;}
-.pic {width: 80%; float: right;}
+.pic {width: 75%; float: right; display:block;top:0;right:0;bottom:0;}
 
 *[class*="col_"]{
 margin-left: 0.83333333333333%;
