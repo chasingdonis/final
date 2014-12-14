@@ -46,7 +46,7 @@ clear:both;
 .col_6  { width: 48.333333333333%; }
 .col_7  { width: 56.666666666667%; }
 .col_8  { width: 65%; }
-.col_9  { width: 73.333333333333%; }
+.col_9  { width: 73.333333333333%; padding-top: 30px; }
 .col_10 { width: 81.666666666667%; }
 .col_11 { width: 90%; }
 .col_12 { width: 100%;}
