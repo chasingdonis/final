@@ -38,10 +38,10 @@ clear:both;
 *[class*="col_"].alpha{margin-left:0;}
 *[class*="col_"].omega{margin-right:0;}
  
-.col_1  { width: 6.6666666666667%; }
+.col_1  { width: 40%; float:left; display:block; right:50px;bottom:0;}
 .col_2  { width: 20%; padding-top: 30px;}
 .col_3  { width: 23.333333333333%; }
-.col_4  { width: 31.666666666667%; }
+.col_4  { width: 23%; padding: 60px 0 0 20px;}
 .col_5  { width: 40%; }
 .col_6  { width: 48.333333333333%; }
 .col_7  { width: 56.666666666667%; }
@@ -51,6 +51,7 @@ clear:both;
 .col_11 { width: 90%; }
 .col_12 { width: 100%; padding-top: 30px;}
 .pic {width: 75%; float: right; display:block;top:0;right:0;bottom:0;}
+.col_13 { width: 100%; padding-top: 30px;}
 
 *[class*="col_"]{
 margin-left: 0.83333333333333%;
